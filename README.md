@@ -10,7 +10,7 @@ Then in terminal execute command "npm install"
 
 Once done execute command "node app.js"
 
-Now you can use below URLs to CRAETE, GET, UPDATE or DELETE customers
+Now you can use below URLs to CREATE, GET, UPDATE or DELETE customers
 
 GET customers:   http://localhost:3000/customers
 
