@@ -8,7 +8,7 @@
 # 3 Clone the project and open in VS Code
 Then in terminal execute command "npm install"
 
-# 4 Once done execute command "node app.js"
+Once done execute command "node app.js"
 
 Now you can use below URLs to CRAETE, GET, UPDATE or DELETE customers
 
